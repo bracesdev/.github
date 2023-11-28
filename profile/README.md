@@ -1,4 +1,8 @@
-## Braces
+# Braces.dev
+
+We're a group of like-minded engineers
+collaborating on software for fun.
+
 
 <!--
 
